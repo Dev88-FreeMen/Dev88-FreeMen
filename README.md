@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Kamal</h1>
+<h1 align="center">Hi 👋, I'm Dev88-FreeMen</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;Building+Clean+%26+Modern+UI;Learning+Every+Day" />
